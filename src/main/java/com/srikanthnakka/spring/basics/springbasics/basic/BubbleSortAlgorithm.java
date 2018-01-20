@@ -1,4 +1,4 @@
-package com.srikanthnakka.spring.basics.springbasics;
+package com.srikanthnakka.spring.basics.springbasics.basic;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Primary;
