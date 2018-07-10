@@ -10,4 +10,8 @@ import org.springframework.stereotype.Component;
 		proxyMode = ScopedProxyMode.TARGET_CLASS)
 public class JDBCConnection {
 
+public void test(){
+
+}
+
 }
